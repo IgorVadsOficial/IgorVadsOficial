@@ -1,6 +1,5 @@
 # 💫 Sobre mim:
-Bem-vindo ao meu mundo de código! Sou um apaixonado por tecnologia, sempre em busca de novos desafios e aprendizado constante. Transformando linhas de código em soluções criativas. 💻✨<br><br>Atualmente sou de Tecnologia da Informação na UFERSA de Pau dos Ferros pretendendo ser um futuro Engenheiro de Software. 
-
+Bem-vindo ao meu mundo de código! Sou um apaixonado por tecnologia, sempre em busca de novos desafios e aprendizado constante. Transformando linhas de código em soluções criativas. 💻✨<br><br>Atualmente sou de Analise e Desenvolvimento de Sistemas no IFRN de Pau dos Ferros pretendendo ser um futuro Programador 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/igor_vads) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igor_vads) 
@@ -14,6 +13,3 @@ Bem-vindo ao meu mundo de código! Sou um apaixonado por tecnologia, sempre em b
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=IgorVads&icon=0&color=0)](https://visitcount.itsvg.in)
