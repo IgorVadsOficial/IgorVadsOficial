@@ -98,26 +98,6 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ---
 
-## 🏆 Troféus do GitHub:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorVadsOficial&theme=onedark&column=7&margin-w=10&margin-h=10" alt="Troféus do GitHub" />
-</p>
-
----
-
-## 🐍 Minhas contribuições:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorVadsOficial/IgorVadsOficial/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorVadsOficial/IgorVadsOficial/output/github-snake.svg" />
-    <img alt="Animação da cobrinha com minhas contribuições" src="https://raw.githubusercontent.com/IgorVadsOficial/IgorVadsOficial/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
 ## 📡 Redes Sociais:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/455443432505212940)
