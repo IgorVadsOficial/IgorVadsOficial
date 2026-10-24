@@ -35,7 +35,11 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ### 🤖 Inteligência Artificial:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=claude,chatgpt,gemini" alt="Claude, ChatGPT e Gemini" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/10A37F" alt="ChatGPT" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" height="40" />
 </p>
 
 ---
