@@ -44,6 +44,19 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/copilot-color.svg" alt="Microsoft Copilot" width="48" height="48" />
 </p>
 
+### 💻 IDEs e Editores:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" alt="VS Code e PyCharm" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/antigravity-color.svg" alt="Antigravity" width="48" height="48" />
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="48" height="48" />
+  </picture>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev-C++" />
+</p>
+
 ---
 
 ## 📡 Redes Sociais:
