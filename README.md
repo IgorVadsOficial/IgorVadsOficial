@@ -46,7 +46,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ---
 
-## 📡 Redes Sociais
+## 📡 Redes Sociais:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/455443432505212940)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vads/)
@@ -54,7 +54,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ---
 
-## 💾 Citação
+## 💾 Citação:
 
 > "As pessoas que são loucas o suficiente para pensar que podem mudar o mundo são as que o fazem."
 >
