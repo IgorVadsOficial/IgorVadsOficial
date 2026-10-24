@@ -54,7 +54,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
     <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="48" height="48" />
   </picture>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev-C++" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6796fe47-907a-4f6f-8075-8722ea4708d1/dapvn1w-76f47a94-188c-4a3e-b3bb-fc06c0d93566.png/v1/fill/w_894,h_894,q_70,strp/alternative_dev_c_icon_256x256__by_thepi7on_dapvn1w-pre.jpg" alt="Dev-C++" />
 </p>
 
 ---
