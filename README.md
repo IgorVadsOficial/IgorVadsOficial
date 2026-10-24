@@ -25,7 +25,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 ### 🌐 Front-end e Design:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML, CSS e Figma" />
-  <img src="assets/canva.svg" alt="Canva" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" />
 </p>
 
 ### ☁️ Infraestrutura e Ferramentas:
@@ -35,11 +35,11 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ### 🤖 Inteligência Artificial:
 <p align="left">
-  <img src="assets/claude.svg" alt="Claude" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/claude-color.svg" alt="Claude" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/chatgpt.svg" alt="ChatGPT" height="48" />
+  <img src="https://api.iconify.design/ri/openai-fill.svg?color=%2310A37F" alt="ChatGPT" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/gemini.svg" alt="Gemini" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/gemini-color.svg" alt="Gemini" width="48" height="48" />
 </p>
 
 ---
