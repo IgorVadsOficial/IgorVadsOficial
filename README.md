@@ -6,12 +6,12 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ## 🖥️ Sobre mim:
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFRN – Campus Pau dos Ferros**.
-- 🚀 Meu objetivo é me tornar um **programador profissional**.
-- 💾 Estou construindo minha base em programação, sistemas operacionais e infraestrutura.
-- 📶 Curto resolver problemas, entender como as coisas funcionam por baixo dos panos e aplicar isso em projetos reais.
-- 🖱️ Também me interesso por design de interfaces e experiência do usuário.
-- 📱 Aberto a conversas, parcerias em projetos e oportunidades de estágio.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFRN – Campus Pau dos Ferros**
+- 🚀 Meu objetivo é me tornar um **programador profissional**
+- 💾 Estou construindo minha base em programação, sistemas operacionais e infraestrutura
+- 📶 Curto resolver problemas, entender como as coisas funcionam por baixo dos panos e aplicar isso em projetos reais
+- 🖱️ Também me interesso por design de interfaces e experiência do usuário
+- 📱 Aberto a conversas, parcerias em projetos e oportunidades de estágio
 
 ---
 
@@ -31,6 +31,11 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 ### ☁️ Infraestrutura e Ferramentas:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,linux,aws,github" alt="Docker, Linux, AWS e GitHub" />
+</p>
+
+### 🐧 Sistemas e Terminal:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu,bash,powershell,windows" alt="Ubuntu, Bash, PowerShell e Windows" />
 </p>
 
 ### 🤖 Inteligência Artificial:
