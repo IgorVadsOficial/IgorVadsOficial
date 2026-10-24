@@ -1,21 +1,17 @@
 # 🧑‍💻 Eu sou o Igor, dev em formação.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IgorVadsOficial&label=Visitantes&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
-</p>
-
 Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou sempre compilando novos desafios e aprendizados. Gosto de transformar linhas de código em soluções criativas, e cada projeto é uma chance de evoluir.
 
 ---
 
 ## 🖥️ Sobre mim:
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFRN – Campus Pau dos Ferros**
-- 🚀 Meu objetivo é me tornar um **programador profissional**
-- 💾 Estou construindo minha base em programação, sistemas operacionais e infraestrutura
-- 📶 Curto resolver problemas, entender como as coisas funcionam por baixo dos panos e aplicar isso em projetos reais
-- 🖱️ Também me interesso por design de interfaces e experiência do usuário
-- 📱 Aberto a conversas, parcerias em projetos e oportunidades de estágio
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFRN – Campus Pau dos Ferros**.
+- 🚀 Meu objetivo é me tornar um **programador profissional**.
+- 💾 Estou construindo minha base em programação, sistemas operacionais e infraestrutura.
+- 📶 Curto resolver problemas, entender como as coisas funcionam por baixo dos panos e aplicar isso em projetos reais.
+- 🖱️ Também me interesso por design de interfaces e experiência do usuário.
+- 📱 Aberto a conversas, parcerias em projetos e oportunidades de estágio.
 
 ---
 
@@ -25,9 +21,9 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
   <img src="https://skillicons.dev/icons?i=python,django,git,github" alt="Python, Django, Git e GitHub" />
 </p>
 
-- 🐍 **Python**, a base de tudo o que estou aprendendo agora
-- 🌐 **Django**, para criar aplicações web com Python
-- 🔀 **Git** e **GitHub**, para versionar código e organizar meus projetos
+- 🐍 **Python**, a base de tudo o que estou aprendendo agora.
+- 🌐 **Django**, para criar aplicações web com Python.
+- 🔀 **Git** e **GitHub**, para versionar código e organizar meus projetos.
 
 ---
 
