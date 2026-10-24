@@ -1,5 +1,9 @@
 # 🧑‍💻 Eu sou o Igor, dev em formação.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=IgorVadsOficial&label=Visitantes&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
+</p>
+
 Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou sempre compilando novos desafios e aprendizados. Gosto de transformar linhas de código em soluções criativas, e cada projeto é uma chance de evoluir.
 
 ---
@@ -12,6 +16,18 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 - 📶 Curto resolver problemas, entender como as coisas funcionam por baixo dos panos e aplicar isso em projetos reais
 - 🖱️ Também me interesso por design de interfaces e experiência do usuário
 - 📱 Aberto a conversas, parcerias em projetos e oportunidades de estágio
+
+---
+
+## 📚 Em que estou estudando:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,git,github" alt="Python, Django, Git e GitHub" />
+</p>
+
+- 🐍 **Python**, a base de tudo o que estou aprendendo agora
+- 🌐 **Django**, para criar aplicações web com Python
+- 🔀 **Git** e **GitHub**, para versionar código e organizar meus projetos
 
 ---
 
@@ -36,7 +52,6 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 ### 🐧 Sistemas e Terminal:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ubuntu,bash,powershell,windows" alt="Ubuntu, Bash, PowerShell e Windows" />
-  <img src="https://cdn.simpleicons.org/popos/48B9C7" alt="Pop!_OS" width="48" height="48" />
 </p>
 
 ### 🤖 Inteligência Artificial:
@@ -70,12 +85,45 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ---
 
+## 📊 Estatísticas do GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorVadsOficial&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorVadsOficial&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IgorVadsOficial&theme=dark&hide_border=true" alt="Sequência de contribuições" />
+</p>
+
+---
+
+## 🏆 Troféus do GitHub:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IgorVadsOficial&theme=onedark&column=7&margin-w=10&margin-h=10" alt="Troféus do GitHub" />
+</p>
+
+---
+
+## 🐍 Minhas contribuições:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorVadsOficial/IgorVadsOficial/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorVadsOficial/IgorVadsOficial/output/github-snake.svg" />
+    <img alt="Animação da cobrinha com minhas contribuições" src="https://raw.githubusercontent.com/IgorVadsOficial/IgorVadsOficial/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 📡 Redes Sociais:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/455443432505212940)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vads/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igor_vads)
-[![E-mail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:igorviniciusalves77@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:igorviniciusalves77@gmail.com)
 
 ---
 
