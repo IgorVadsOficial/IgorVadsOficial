@@ -30,7 +30,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ### ☁️ Infraestrutura e Ferramentas:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,github" alt="Docker, Linux, AWS e GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github" alt="Docker, Linux, AWS, Git e GitHub" />
 </p>
 
 ### 🐧 Sistemas e Terminal:
@@ -47,6 +47,11 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/gemini-color.svg" alt="Gemini" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/copilot-color.svg" alt="Microsoft Copilot" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri/grok-ai-fill.svg?color=%23FFFFFF" />
+    <img src="https://api.iconify.design/ri/grok-ai-fill.svg?color=%23000000" alt="Grok" width="48" height="48" />
+  </picture>
 </p>
 
 ### 💻 IDEs e Editores:
@@ -58,6 +63,8 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/FFFFFF" />
     <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="48" height="48" />
   </picture>
+  &nbsp;&nbsp;
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6796fe47-907a-4f6f-8075-8722ea4708d1/dapvn1w-76f47a94-188c-4a3e-b3bb-fc06c0d93566.png/v1/fill/w_894,h_894,q_70,strp/alternative_dev_c_icon_256x256__by_thepi7on_dapvn1w-pre.jpg" alt="Dev-C++" width="48" height="48" />
 </p>
 
 ---
@@ -67,6 +74,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/455443432505212940)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vads/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igor_vads)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:igorviniciusalves77@gmail.com)
 
 ---
 
