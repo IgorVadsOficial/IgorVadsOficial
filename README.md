@@ -40,6 +40,8 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
   <img src="https://api.iconify.design/ri/openai-fill.svg?color=%2310A37F" alt="ChatGPT" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/gemini-color.svg" alt="Gemini" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/copilot-color.svg" alt="Microsoft Copilot" width="48" height="48" />
 </p>
 
 ---
