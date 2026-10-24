@@ -25,11 +25,12 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 ### 🌐 Front-end e Design:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML, CSS e Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 ### ☁️ Infraestrutura e Ferramentas:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws" alt="Docker, Linux e AWS" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,github" alt="Docker, Linux, AWS e GitHub" />
 </p>
 
 ### 🤖 Inteligência Artificial:
