@@ -4,7 +4,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ---
 
-## 🖥️ Sobre mim
+## 🖥️ Sobre mim:
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFRN – Campus Pau dos Ferros**
 - 🚀 Meu objetivo é me tornar um **programador profissional**
@@ -15,24 +15,24 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
-### ⌨️ Linguagens
+### ⌨️ Linguagens:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js" alt="Python, C++, C e JavaScript" />
 </p>
 
-### 🌐 Front-end e Design
+### 🌐 Front-end e Design:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML, CSS e Figma" />
 </p>
 
-### ☁️ Infraestrutura e Ferramentas
+### ☁️ Infraestrutura e Ferramentas:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,linux,aws" alt="Docker, Linux e AWS" />
 </p>
 
-### 🤖 Inteligência Artificial
+### 🤖 Inteligência Artificial:
 <p align="left">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
@@ -43,7 +43,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ## 📡 Redes Sociais
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/igor_vads)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/455443432505212940)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vads/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igor_vads)
 
