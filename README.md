@@ -8,8 +8,8 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFRN – Campus Pau dos Ferros**
 - 🚀 Meu objetivo é me tornar um **programador profissional**
-- ⚙️ Estou construindo minha base em programação, sistemas operacionais e infraestrutura
-- 📱 Curto resolver problemas, entender como as coisas funcionam por baixo dos panos e aplicar isso em projetos reais
+- 💾 Estou construindo minha base em programação, sistemas operacionais e infraestrutura
+- 📶 Curto resolver problemas, entender como as coisas funcionam por baixo dos panos e aplicar isso em projetos reais
 - 🖱️ Também me interesso por design de interfaces e experiência do usuário
 - 📱 Aberto a conversas, parcerias em projetos e oportunidades de estágio
 
