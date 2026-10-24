@@ -25,7 +25,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 ### 🌐 Front-end e Design:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML, CSS e Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="assets/canva.svg" alt="Canva" height="48" />
 </p>
 
 ### ☁️ Infraestrutura e Ferramentas:
@@ -35,9 +35,11 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ### 🤖 Inteligência Artificial:
 <p align="left">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="assets/claude.svg" alt="Claude" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/chatgpt.svg" alt="ChatGPT" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/gemini.svg" alt="Gemini" height="48" />
 </p>
 
 ---
