@@ -58,7 +58,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 > "As pessoas que são loucas o suficiente para pensar que podem mudar o mundo são as que o fazem."
 >
-> — **Apple, campanha *Think Different* (1997)**, frequentemente associada a Steve Jobs
+> — **Apple, campanha *Think Different* (1997)**, frequentemente associada a Steve Jobs.
 
 ---
 
