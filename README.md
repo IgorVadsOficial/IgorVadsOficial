@@ -81,19 +81,6 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ---
 
-## 📊 Estatísticas do GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorVadsOficial&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorVadsOficial&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IgorVadsOficial&theme=dark&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
----
-
 ## 📡 Redes Sociais:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/455443432505212940)
