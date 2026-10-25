@@ -30,27 +30,31 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 ## 🛠️ Tech Stack:
 
 ### ⌨️ Linguagens:
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Python, C++, C" />
 </p>
 
 ### 🌐 Front-end e Design:
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML, CSS e Figma" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" />
 </p>
 
 ### ☁️ Infraestrutura e Ferramentas:
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github" alt="Docker, Linux, AWS, Git e GitHub" />
 </p>
 
 ### 🐧 Sistemas e Terminal:
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ubuntu,bash,powershell,windows" alt="Ubuntu, Bash, PowerShell e Windows" />
 </p>
 
 ### 🤖 Inteligência Artificial:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/claude-color.svg" alt="Claude" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;
@@ -67,6 +71,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 </p>
 
 ### 💻 IDEs e Editores:
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm" alt="VS Code e PyCharm" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.98.0/icons/antigravity-color.svg" alt="Antigravity" width="48" height="48" />
@@ -94,7 +99,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 > "As pessoas que são loucas o suficiente para pensar que podem mudar o mundo são as que o fazem."
 >
-> — **Apple, campanha *Think Different* (1997)**, frequentemente associada a Steve Jobs.
+> — **Apple, campanha _Think Different_ (1997)**, frequentemente associada a Steve Jobs.
 
 ---
 
