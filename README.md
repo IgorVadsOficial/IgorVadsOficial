@@ -31,7 +31,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 ### ⌨️ Linguagens:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" alt="Python, C++, C e JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Python, C++, C" />
 </p>
 
 ### 🌐 Front-end e Design:
