@@ -51,6 +51,7 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ubuntu,bash,powershell,windows" alt="Ubuntu, Bash, PowerShell e Windows" />
+  <img src=https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg alt="Pop_OS" width="48" height="48" />
 </p>
 
 ### 🤖 Inteligência Artificial:
