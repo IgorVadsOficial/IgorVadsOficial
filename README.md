@@ -90,8 +90,8 @@ Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou se
 ## 📊 Estatísticas do GitHub:
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorVadsOficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorVadsOficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
