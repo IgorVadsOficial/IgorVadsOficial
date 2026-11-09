@@ -1,6 +1,6 @@
 # 🧑‍💻 Eu sou o Igor, dev em formação.
 
-Seja bem-vindo ao meu terminal pessoal! Sou apaixonado por tecnologia e estou sempre compilando novos desafios e aprendizados. Gosto de transformar linhas de código em soluções criativas, e cada projeto é uma chance de evoluir.
+Seja bem-vindo ao meu terminal pessoal! Sou um amante de tecnologia e estou sempre compilando novos desafios e aprendizados. Gosto de transformar linhas de código em soluções criativas, e cada projeto é uma chance de evoluir.
 
 ---
 
