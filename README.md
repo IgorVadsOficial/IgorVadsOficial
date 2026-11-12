@@ -98,10 +98,6 @@ Seja bem-vindo ao meu terminal pessoal! Sou um amante de tecnologia e estou semp
   <img src="https://streak-stats.demolab.com/?user=IgorVadsOficial&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
----
-
-## 🐍 Animação do Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/IgorVadsOficial/IgorVadsOficial/output/snake.svg" alt="Animação do Snake das contribuições do GitHub" />
 </p>
