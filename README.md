@@ -100,6 +100,14 @@ Seja bem-vindo ao meu terminal pessoal! Sou um amante de tecnologia e estou semp
 
 ---
 
+## 🐍 Animação do Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IgorVadsOficial/IgorVadsOficial/output/snake.svg" alt="Animação do Snake das contribuições do GitHub" />
+</p>
+
+---
+
 ## 📡 Redes Sociais:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/455443432505212940)
